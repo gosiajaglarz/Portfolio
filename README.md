@@ -9,9 +9,13 @@ I have had a long career break and recently decided to learn new skills to start
 
 ## Courses
 
-* **Podstawy manualnego testowania oprogramowania** on Udemy by Tester Oprogramowania (in progress)
-*  **COLT 1/2022** Collaborative Testing by Cherry-IT (in progress)
-*  **UTest Academy** (in progress)
+* **UTest Academy**
+* **Design Thinking, Akademia PARP
+* **Dare IT Mentoring Program - QA/Manual Testing Mentee
+* **Trello Testing Training Project 2/2022, Cherry-IT
+*  **COLT 1/2022** Collaborative Testing Project, Cherry-IT
+*  **Podstawy manualnego testowania oprogramowania** on Udemy by Tester Oprogramowania
+*  **Introduction to Software Testing Course, Zachodniopomorska Szkoła Biznesu w Szczecinie (Platforma edukacyjna Navoica)
 
 ## Books
 
@@ -31,6 +35,7 @@ I have had a long career break and recently decided to learn new skills to start
 * **Kobiety do testów**, webinar testuj.pl (https://www.youtube.com/watch?v=80Z2qat74sw&t=836s)
 
 ## Meet Ups
+* **KraQA
 
 ## Skills
 
