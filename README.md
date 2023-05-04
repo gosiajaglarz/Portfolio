@@ -10,12 +10,12 @@ I have had a long career break and recently decided to learn new skills to start
 ## Courses
 
 * **UTest Academy**
-* **Design Thinking, Akademia PARP
-* **Dare IT Mentoring Program - QA/Manual Testing Mentee
-* **Trello Testing Training Project 2/2022, Cherry-IT
-*  **COLT 1/2022** Collaborative Testing Project, Cherry-IT
+* **Design Thinking**, Akademia PARP
+* **Dare IT Mentoring Program - QA/Manual Testing Mentee**
+* **Trello Testing Training Project 2/2022**, Cherry-IT
+*  **COLT 1/2022** Collaborative Testing Project**, Cherry-IT
 *  **Podstawy manualnego testowania oprogramowania** on Udemy by Tester Oprogramowania
-*  **Introduction to Software Testing Course, Zachodniopomorska Szkoła Biznesu w Szczecinie (Platforma edukacyjna Navoica)
+*  **Introduction to Software Testing Course**, Zachodniopomorska Szkoła Biznesu w Szczecinie (Platforma edukacyjna Navoica)
 
 ## Books
 
