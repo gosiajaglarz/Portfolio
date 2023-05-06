@@ -9,18 +9,29 @@ I have had a long career break and recently decided to learn new skills to start
 
 ## Courses
 
+
+* **QATestLab Training  Course**
 * **UTest Academy**
 * **Design Thinking**, Akademia PARP
 * **Dare IT Mentoring Program - QA/Manual Testing Mentee**
 * **Trello Testing Training Project 2/2022**, Cherry-IT
-*  **COLT 1/2022** Collaborative Testing Project**, Cherry-IT
-*  **Podstawy manualnego testowania oprogramowania** on Udemy by Tester Oprogramowania
-*  **Introduction to Software Testing Course**, Zachodniopomorska Szkoła Biznesu w Szczecinie (Platforma edukacyjna Navoica)
+* **COLT 1/2022 Collaborative Testing Project**, Cherry-IT
+* **Podstawy manualnego testowania oprogramowania** on Udemy by Tester Oprogramowania
+* **Introduction to Software Testing Course**, Zachodniopomorska Szkoła Biznesu w Szczecinie (Platforma edukacyjna Navoica)
+
+## Planned courses
+
+* **SQL**
+* **Postman** FreeCodeCamp
+* **Chrome DevTools**
+* **Git**
+* **UX/UI**
 
 ## Books
 
-*  **"Zawód tester"** Jarosław Smilgin
-*  **"Certyfikowany tester. Sylabus poziomu podstawowego ISTQB®"**
+* **Little Black Book of Testing**
+* **"Certyfikowany tester. Sylabus poziomu podstawowego ISTQB®"**
+* **"Zawód tester"** Jarosław Smilgin
 
 ## Resources
 
@@ -35,7 +46,18 @@ I have had a long career break and recently decided to learn new skills to start
 * **Kobiety do testów**, webinar testuj.pl (https://www.youtube.com/watch?v=80Z2qat74sw&t=836s)
 
 ## Meet Ups
-* **KraQA
+
+* **Nokia Girls for Girls** 
+* **Sphere IT**
+* **Cisco Women**
+* **KraQA**
+* **Zostań IT-GRL, czyli kilka słów o nieprogramistycznych zawodach w IT - meetup w Techies Kraków**
+* **Aptiv - Introduction to Python**
+* 
+
+## Conferences
+
+* **Nokia TestDive**
 
 ## Skills
 
