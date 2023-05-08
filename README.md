@@ -8,15 +8,15 @@ My name is Gosia. After years of freelancing activities to find balance in my ro
 ## Practical Training:
 
 * **QA TestLab Course: Fundamentals of Software Testing** (04/04/2023 — 04/30/2023)
--The course presupposes the participants to obtain the theoretical knowledge of the software testing, practical experience working with the bugs, test cases, check-lists, and also obtaining the skills of working with the tester’s basic tools, such as “Mantis bug-tracker’’ system and “Test Link” a web based test management system.
+The course presupposes the participants to obtain the theoretical knowledge of the software testing, practical experience working with the bugs, test cases, check-lists, and also obtaining the skills of working with the tester’s basic tools, such as “Mantis bug-tracker’’ system and “Test Link” a web based test management system.
 * **UTest Academy**
 * **MrBuggy**
 * **Dare IT Mentoring Program** - QA/Manual Testing Mentee (11/2022 - 03/2023)
 Working with support from the QA professional to gain the skills required to become a manual tester. 
 * **Trello Testing Training Project 2/2022**, Cherry-IT (11/2022 - 12/2022) 
--Reading project documentation / reating test cases / reporting bugs / using DevTools / working in SCRUM methodology. 
+Reading project documentation / reating test cases / reporting bugs / using DevTools / working in SCRUM methodology. 
 * **COLT 1/22 - Collaborative Testing Project** (6/2022)
--Introduction to GIT and Jira / learning how to report bugs, create test cases and test scenarios. 
+Introduction to GIT and Jira / learning how to report bugs, create test cases and test scenarios. 
 
 ## Finished Courses
 
