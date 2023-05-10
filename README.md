@@ -25,7 +25,9 @@ Jak wygląda branża IT / Podejścia do wytwarzania oprogramowania (Waterfall i 
 * **Design Thinking**, Akademia PARP (03/2023)
 * **Basics of software manual testing**, Udemy (09/2022)
 * **Introduction to software testing course**, Zachodniopomorska Szkoła Biznesu w Szczecinie (Platforma edukacyjna Navoica) (08/2022)
-
+* **QATestLab Training  Course**
+* **Podstawy manualnego testowania oprogramowania** on Udemy by Tester Oprogramowania
+* **Introduction to Software Testing Course**, Zachodniopomorska Szkoła Biznesu w Szczecinie (Platforma edukacyjna Navoica)
 
 ## Courses in Progress:
 
@@ -42,17 +44,7 @@ Jak wygląda branża IT / Podejścia do wytwarzania oprogramowania (Waterfall i 
 * **DevTools**
 * **HTML/CSS**
 * **UX/UI**
-
 * **Python Essentials 1**, Python Institute (https://pythoninstitute.org/python-essentials-1)
-
-* **QATestLab Training  Course**
-* **UTest Academy**
-* **Design Thinking**, Akademia PARP
-* **Dare IT Mentoring Program - QA/Manual Testing Mentee**
-* **Trello Testing Training Project 2/2022**, Cherry-IT
-* **COLT 1/2022 Collaborative Testing Project**, Cherry-IT
-* **Podstawy manualnego testowania oprogramowania** on Udemy by Tester Oprogramowania
-* **Introduction to Software Testing Course**, Zachodniopomorska Szkoła Biznesu w Szczecinie (Platforma edukacyjna Navoica)
 
 
 ## Books
