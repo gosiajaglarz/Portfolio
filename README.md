@@ -90,6 +90,7 @@ Jak wygląda branża IT / Podejścia do wytwarzania oprogramowania (Waterfall i 
 ## Conferences
 
 * **Nokia TestDive**
+*  **Na podbój IT**
 
 
 ## Skills
